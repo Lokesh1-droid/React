@@ -1,0 +1,17 @@
+
+.card{
+  padding: 2px;
+  max-width: 200px;
+  border: 2px solid;
+  margin-left: 5px;
+  margin-top:5px ;
+  display: inline-block;
+  text-align: center;
+  
+}
+.card img{
+  max-width: 200px;
+}
+.card h3{
+  text-decoration:underline;
+}
