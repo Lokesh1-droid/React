@@ -7,5 +7,7 @@ function Propsin(props){
     </div>
     );
 }
-
+Propsin.defaultProps(
+  name:"Null"
+)
 export default Propsin
