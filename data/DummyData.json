@@ -1,0 +1,22 @@
+{
+  "Dummy" : [
+    {
+      "id" : 1,
+      "image" : "http://localhost:3000/imagein.jpg",
+      "name" : "Card1",
+      "text" : "This is the card of Card1"
+    },
+    {
+      "id" : 2,
+      "image" : "http://localhost:3000/imagein.jpg",
+      "name" : "Card2",
+      "text" : "This is the card of Card2"
+    },
+    {
+      "id" : 3,
+      "image" : "http://localhost:3000/imagein.jpg",
+      "name" : "Card3",
+      "text" : "This is the card of Card3"
+    }
+  ]
+}
